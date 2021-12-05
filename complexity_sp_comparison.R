@@ -76,3 +76,4 @@ accuracy_df %>%
         axis.text.x = element_text(size = 12, face = "bold.italic"),
         legend.title = element_blank(),
         legend.text = element_text(size = 12, face = 'bold'))
+### add explanation about figures
