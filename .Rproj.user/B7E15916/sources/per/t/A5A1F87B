@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1638733218886.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "469871066",
+    "id" : "A5A1F87B",
+    "lastKnownWriteTime" : 1638733238,
+    "last_content_update" : 1638733238112,
+    "path" : "C:/Users/Noori/Desktop/lab_meeting/complexity_sp_comparison.R",
+    "project_path" : "complexity_sp_comparison.R",
+    "properties" : {
+        "cursorPosition" : "14,21",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
