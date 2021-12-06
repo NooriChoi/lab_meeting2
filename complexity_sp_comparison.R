@@ -78,3 +78,4 @@ accuracy_df %>%
         legend.text = element_text(size = 12, face = 'bold'))
 ### add explanation about figures
 ### changed colors line 76
+### changed lines 
